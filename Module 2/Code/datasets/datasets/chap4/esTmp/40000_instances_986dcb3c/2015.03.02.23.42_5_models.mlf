@@ -1,0 +1,5 @@
+weka.classifiers.bayes.NaiveBayes 
+weka.classifiers.functions.Logistic -R 1.0E-8 -M -1
+weka.classifiers.trees.J48 -S -C 0.25 -B -M 2
+weka.classifiers.trees.J48 -S -C 0.25 -B -M 2 -A
+weka.classifiers.trees.J48 -S -C 0.25 -M 2
